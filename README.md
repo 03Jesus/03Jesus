@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I am from Colombia and I am studying systems and computer engineering at UTB, currently in eighth semester🎓.<br><br>- 🔭 I have worked on creating some automation tools with graphical interfaces using Python, which is my current favorite language!<br>Lately I am interested in backend development, using FastAPI⚡ as the main framework for build robust applications💪.<br>- 📚 I am currently learning TypeScript (and JavaScript), to get to know the frontend world and have a complete stack of knowledge.<br>- 💡 Many of my projects have been purely academic, I plan to add projects of my own in the future to show the world what I am capable of doing.</p>
+<p align="left">I am from Colombia and I am studying systems and computer engineering at UTB, currently in eighth semester🎓.<br><br>- 🔭 I have worked on creating some automation tools using ETL processes with graphical interfaces using Python, which is my current favorite language!<br>Lately I am interested in backend development, using FastAPI⚡ as the main framework for build robust applications💪.<br>- 📚 I am currently learning TypeScript (and JavaScript), to get to know the frontend world and have a complete stack of knowledge.<br>- 💡 Many of my projects have been purely academic, I plan to add projects of my own in the future to show the world what I am capable of doing.</p>
 
 ###
 
